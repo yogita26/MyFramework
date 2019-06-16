@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+           <!--<class name="FileUtilities.PropertiesFile3"/>
+            <class name="Pom.Test.TestRuner_Class"/>-->
+           <!-- <class name="Pom.Test.HomepageTest"></class>
+            <class name="Pom.Test.LoginPageTest"></class>-->
+            <class name="Pom.Test.CreateAccountTest"></class>
+         
+           <!--  <class name="Pom.Test.Shop_By_catest"/>
+           <class name="Pom.pages.Shop_By_Category"></class>
+          <class name="Pom.Test.TestDatabase"></class>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
